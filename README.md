@@ -5,3 +5,4 @@
 # Camera-undistortion(camerawithundistortion.py)
 - In the input lot of images from different angle of checkerboard has been taken, and has been processed to get the camera's calibration parameters such as camera matrix, distance coefficient, rotational and translational vectors. 
 - And after that in output we got an undistort image.
+- image folder rsn99
